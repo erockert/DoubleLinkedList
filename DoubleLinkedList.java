@@ -4,6 +4,8 @@ public class DoubleLinkedList {
     //Making my node class
     class Node
     {
+        //String variables
+        String data;
         
     }
  //Main class
