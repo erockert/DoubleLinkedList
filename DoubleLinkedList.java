@@ -84,7 +84,7 @@ public class DoubleLinkedList
     {
         temp = null;
         current = this.head;
-        
+          
         while(current != null)
         {     
             temp = current.prev;
