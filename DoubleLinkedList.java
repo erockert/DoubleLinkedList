@@ -63,7 +63,7 @@ public class DoubleLinkedList
     }
     
   
-    public boolean isEmpty()
+    public boolean isEmpty() 
     {
         return this.head == null;
     }
@@ -115,7 +115,7 @@ public class DoubleLinkedList
             {
                 current = current.next;
                 
-                i++;
+                i++;  
             }
             if(current.next == null)
             {
