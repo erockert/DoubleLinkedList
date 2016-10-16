@@ -14,7 +14,7 @@ public class DoubleLinkedList
     {
         String data;
         Node prev;
-        Node next;     
+        Node next;        
         
         //Node Constructor
         Node(String d)
