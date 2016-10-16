@@ -178,7 +178,7 @@ public class DoubleLinkedList
         for(int i = nodeNum; i>0; --i)
         {
             System.out.print("Enter value to node " + nodeNum + ": ");
-            value = scan.nextLine();
+            value = scan.nextLine();   
             list.add(value);
            // list.print();
             nodeNum --;
