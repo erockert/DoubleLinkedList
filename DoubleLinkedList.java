@@ -63,7 +63,7 @@ public class DoubleLinkedList
     }
     
   
-    public boolean isEmpty() 
+    public boolean isEmpty()   
     {
         return this.head == null;
     }
