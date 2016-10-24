@@ -122,7 +122,7 @@ public class DoubleLinkedList
                     }
                     else if(temp != null && temp.getString().compareTo(str)>0)
                     {
-                        //setting temp to the previous of temp       
+                        //setting temp to the previous of temp        
                         temp = temp.getPrev();
                        //setting the node to previous, setting temp to Next.
                         newNode.setPrev(temp.getNext());
