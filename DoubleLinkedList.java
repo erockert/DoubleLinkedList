@@ -141,7 +141,7 @@ public class DoubleLinkedList
                         this.tail = newNode;
                         break;
                     }
-                  temp = temp.getNext();
+                  temp = temp.getNext(); 
                 }
                }
     }
